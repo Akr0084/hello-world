@@ -8,7 +8,7 @@ node{
    }
    stage('Deploy') {
 	   sshagent(['tomcat-dev']){
-		sh 'scp -o StrictHostKeyChecking=no /var/lib/jenkins/workspace/Test_multibranch_master/webapp/target/webapp.war ec2-user@172.31.85.254:/software/apache-tomcat-8.5.40/webapps'
+		sh 'scp -o StrictHostKeyChecking=no /var/lib/jenkins/workspace/Test_multibranch_master/webapp/target/webapp.war ec2-user@172.31.85.254:/home/ec2-user/software/apache-tomcat-8.5.40/webapps'
         }
    }
 }
