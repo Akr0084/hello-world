@@ -2,7 +2,6 @@
 
 - hosts: all
   tasks:
-    become: true
   
   - name: Docker Repo
     get_url: 
