@@ -477,7 +477,7 @@ nav ul li a {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  width: 100vw;
+  /*width: 100vw;*/
   height: 100vh;
   text-align: center;
   display: -webkit-flex;
