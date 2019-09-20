@@ -1201,7 +1201,7 @@ form h3 {
 <body>
 
 
-  <h1 id="logo"> <a href="#"> NASA </a> </h1>
+  <h1 id="logo"> <a href="#"> RDX </a> </h1>
 
   <nav>
     <ul>
@@ -1214,7 +1214,7 @@ form h3 {
 
   <div class="heropage">
     <div class="herotext">
-      <h1> NASA: A Space Story. </h1>
+      <h1> RDX Specalist : Ankur Rastogi </h1>
       <a target="_blank" href="https://www.nasa.gov/"><button> Learn More </button></a>
     </div>
   </div>
