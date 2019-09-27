@@ -1214,7 +1214,7 @@ form h3 {
 
   <div class="heropage">
     <div class="herotext">
-      <h1> Linux Specalist :  Vivek</h1>
+      <h1> Devops Specalist :  Sarfaraz & Abhishek</h1>
       <a target="_blank" href="https://www.nasa.gov/"><button> Learn More </button></a>
     </div>
   </div>
